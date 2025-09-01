@@ -38,25 +38,25 @@ This project dives deep into sales data to uncover trends, patterns, and actiona
 Visualizations give a clear picture of sales trends.
 
 ### 1️⃣ Top 10 most sold products
-![ Top 10 most sold products](./top%2010%20most%20sold%20products.png)
+![ Top 10 most sold products](./images/top%2010%20most%20sold%20products.png)
 
 ### 2️⃣ Top 10 Revenue-Generating Products
-![op 10 Revenue-Generating Products](./Top%2010%20Revenue-Generating%20products.png)
+![op 10 Revenue-Generating Products](./images/Top%2010%20Revenue-Generating%20products.png)
 
 ### 3️⃣ Sales Trend Over Time 
-![Sales Trend Over Time](./sales%20trend%20over%20time.png)
+![Sales Trend Over Time](./images/sales%20trend%20over%20time.png)
 
 ### 4️⃣ Monthly Sales Performence
-![Monthly Sales Performence](./monthly%20sales%20perfomance.png)
+![Monthly Sales Performence](./images/monthly%20sales%20perfomance.png)
 
 ### 5️⃣ Daily sales trend(scatter)
-![Daily sales trend(scatter)](./daily%20sales%20trend%20(scatter).png)
+![Daily sales trend(scatter)](./images/daily%20sales%20trend%20(scatter).png)
 
 ### 6️⃣ Top 5 Products by Quantity
-![Top 5 Pruducts by Quantity](./top%205%20products%20by%20quantity%20sold.png)
+![Top 5 Pruducts by Quantity](./images/top%205%20products%20by%20quantity%20sold.png)
 
 ### 7️⃣ correlation Heatmap (filtered data)
-![correlation Heatmap (filtered data)](./correlation%20heatmap%20(filterd%20data%20).png)
+![correlation Heatmap (filtered data)](./images/correlation%20heatmap%20(filterd%20data%20).png)
 
 ---
 
